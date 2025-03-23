@@ -69,4 +69,3 @@ This project was developed to streamline the recruitment process by automating t
 
 - Python 3.8+
 - Libraries: Streamlit, PyPDF2, Pandas, Scikit-learn, Matplotlib, Seaborn.
->>>>>>> 89846aea4fbe0b9cf0ab493a848468e02c8adfb6
